@@ -1,12 +1,12 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import HelloVariable from './HelloVariable.tsx'
-import ConditionalExample from './ConditionalExample.tsx'
-import ShowBadge from './ShowBadge.tsx'
-import UserList from './UserList.tsx'
-import PremiumFeature from './PremiumFeature.tsx'
-import DeleteButton from './DeleteButton.tsx'
-import MyCard from './MyCard.tsx'
+import HelloVariable from './learn-component/HelloVariable.tsx'
+import ConditionalExample from './learn-component/ConditionalExample.tsx'
+import ShowBadge from './learn-component/ShowBadge.tsx'
+import UserList from './learn-component/UserList.tsx'
+import PremiumFeature from './learn-component/PremiumFeature.tsx'
+import DeleteButton from './learn-component/DeleteButton.tsx'
+import MyCard from './learn-component/MyCard.tsx'
 
 const users = [
       { id: 1, name: "R" },
